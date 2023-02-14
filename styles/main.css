@@ -5,7 +5,7 @@
 }
 
 .top-nav-collapse {
-  background-color: #3949ab !important;
+  background-color: #9c0000 !important;
 }
 
 .navbar:not(.top-nav-collapse) {
@@ -14,7 +14,7 @@
 
 @media (max-width: 768px) {
   .navbar:not(.top-nav-collapse) {
-    background: #3949ab !important;
+    background: #9c0000 !important;
   }
 }
 
